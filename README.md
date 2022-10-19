@@ -1,6 +1,7 @@
 # Multiplying-two-matrix
 
 ## AIM:
+To write a python program for multiplying two matrix.
 
 ## ALGORITHM:
 
@@ -40,4 +41,4 @@ print("Product of two arrays is:",arr1*arr2)
 ![output](/output.png)
 
 ## RESULT:
-
+Thus the program is written to multiply two matrix.
